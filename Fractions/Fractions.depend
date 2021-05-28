@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1621933512 source:f:\josef\university\2nd year\oop\tasks\final revision\inhertance\fractions\main.cpp
+	<iostream>
+	" FractionCalculator.h"
+
+1621933608 f:\josef\university\2nd year\oop\tasks\final revision\inhertance\fractions\include\fraction.h
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+
+1621933510 source:f:\josef\university\2nd year\oop\tasks\final revision\inhertance\fractions\src\fraction.cpp
+	"Fraction.h"
+
+1621933016 source:f:\josef\university\2nd year\oop\tasks\final revision\inhertance\fractions\src\ fractioncalculator.cpp
+	" FractionCalculator.h"
+
+1621933018 f:\josef\university\2nd year\oop\tasks\final revision\inhertance\fractions\include\ fractioncalculator.h
+	<iostream>
+	"Fraction.h"
+
